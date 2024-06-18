@@ -1,0 +1,20 @@
+"""Taking user input
+Input
+Let's  take a look at the input command and how that works. Input is when the user gives information to the computer."""
+print("Getting to know you!")
+print()
+name=input("what is your name: ")
+lunch=input("what is your favorite food: ")
+music=input("what is your favorite music: ")
+live=input("where do you live: ")
+print("you are")
+print(name)
+print()
+print("You're probably hungry for")
+print(lunch)
+print()
+print("and you're definitely getting your groove on to ")
+print(music)
+print()
+print("and living in")
+print(live)
